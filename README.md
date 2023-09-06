@@ -1,4 +1,4 @@
-👋 Welcome to my GitHub! Here is where I store and showcase my Python projects.
+👋 Welcome to my GitHub! Bienvenido a mi GitHub! Here is where I store and showcase my Python projects.
 
 🐍 Python Enthusiast:
 I'm passionate about Python programming, and this repository is a collection of my various Python projects. From web development and data analysis to machine learning and automation, you'll find a diverse range of Python-based endeavors here.
