@@ -1,6 +1,6 @@
 👋 This is my first Python Project called Band Name Generator! The Band Name Generator will provide the user with a band name by asking the user to enter the city they grew up in and the name of their pet.
 
-🐍 Here's what I learned with this project:
+🐍 Here are the lessons I applied within project:
 * print function
 * input function
 * commenting using hashtag or ctrl + / shortcut 
