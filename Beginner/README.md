@@ -12,7 +12,7 @@
 * variables (naming conventions)
 
 📂 Additional Comments:
-* this project can be complete with and without the use of variables 
+* this project can be completed with and without the use of variables 
 
 
 
